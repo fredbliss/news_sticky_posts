@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/news_sticky_posts/languages/en/tl_module.php" source-language="en">
+        <body>
+            <trans-unit id="tl_module.news_sticky.0">
+                <source>Sticky Post</source>
+            </trans-unit>
+            <trans-unit id="tl_module.news_sticky.1">
+                <source>Designate this post as sticky?</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
